@@ -1,6 +1,6 @@
 name: widget_to_pdf_kit
 description: High-performance Flutter widget to PDF generator. Rasterizes onscreen or offscreen widgets into crisp, paginated PDF documents with custom formats and scaling.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/ShahzainBaloch/widget_to_pdf_kit
 issue_tracker: https://github.com/ShahzainBaloch/widget_to_pdf_kit/issues
 topics:
@@ -17,7 +17,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  pdf: ">=3.10.0 <3.13.0"
+  pdf: ">=3.10.0 <4.0.0"
 
 dev_dependencies:
   flutter_test:

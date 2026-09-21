@@ -23,7 +23,7 @@ Add `widget_to_pdf_kit` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  widget_to_pdf_kit: ^1.0.0
+  widget_to_pdf_kit: ^1.0.1
 ```
 
 Import the package:

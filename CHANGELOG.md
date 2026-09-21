@@ -1,3 +1,8 @@
+## 1.0.1
+
+* Widened `pdf` dependency constraint to support latest versions up to `<4.0.0`.
+* Minor performance improvements during multi-page widget pagination.
+
 ## 1.0.0
 
 * Initial release of `widget_to_pdf_kit`.
